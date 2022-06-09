@@ -1,0 +1,17 @@
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\bin\Debug\net6.0\Entities.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\bin\Debug\net6.0\Entities.pdb
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

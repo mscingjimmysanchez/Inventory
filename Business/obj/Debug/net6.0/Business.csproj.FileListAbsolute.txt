@@ -1,0 +1,17 @@
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\bin\Debug\net6.0\Business.deps.json
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\bin\Debug\net6.0\Business.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\bin\Debug\net6.0\Business.pdb
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\bin\Debug\net6.0\DataAccess.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\bin\Debug\net6.0\Entities.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\bin\Debug\net6.0\DataAccess.pdb
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\bin\Debug\net6.0\Entities.pdb
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\Business.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\Business.pdb
+D:\Documents\Deejay\Platzi\Desarrollo Web con Blazor y .Net\Business\obj\Debug\net6.0\ref\Business.dll
